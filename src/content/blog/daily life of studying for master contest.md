@@ -7,7 +7,7 @@ tags: ["daily", "blog"]
 draft: false
 ---
 
-Since some result has been announced, I wanted to write something for preparing the contest alone.
+Since some result has been announced, I wanted to write something about preparing the contest alone.
 
 First I want to say that the past six month it is very unbelievable. There are three subject each has at least three books of contents. What worse, I don't even listen to lecture during the class, so , for me, these content are almost the first time I see. When I opened the first book I don't even thought that I can read the whole content completely until the contest. Whatever, I still started read the algebra in one day night. That was the first day I stay in library til it close the door. Things goes well but summer vacation was comming. 
 
