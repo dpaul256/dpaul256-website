@@ -18,7 +18,7 @@ const { Content } = await post.render();
 
 <BaseLayout title={`${post.data.title} — dpaul256`} description={post.data.description ?? ""}>
   <article class="card">
-    <a href={`${import.meta.env.BASE_URL}blog/`} class="muted">← Back to Blog</a>
+    <a href={`${import.meta.env.BASE_URL}/blog/`} class="muted">← Back to Blog</a>
     <h1 style="margin:10px 0 6px 0;">{post.data.title}</h1>
     <div class="muted" style="font-size:14px;">
       {post.data.date.toLocaleDateString()}
