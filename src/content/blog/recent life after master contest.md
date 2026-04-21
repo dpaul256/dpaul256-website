@@ -1,7 +1,7 @@
 ---
 title: "recent life after finish master contest"
 description: "After contest things seem not becoming chill at all"
-excerpt:"After contest things seem not becoming chill at all"
+excerpt: "After contest things seem not becoming chill at all"
 date: "2026-04-21"
 tags: ["daily", "blog"]
 draft: false
