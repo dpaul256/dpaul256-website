@@ -1,0 +1,16 @@
+---
+title: "recent life after finish master contest"
+description: "After contest things seem not becoming chill at all"
+excerpt:"After contest things seem not becoming chill at all"
+date: "2026-04-21"
+tags: ["daily", "blog"]
+draft: false
+---
+
+After finish the master contest. I though that I will have a lot of time for relaxing or doing somethings fun. However, first problem I met is that if study master now is better or spending one year study re-do the contest one more time? I spend lots of time thinking this problem. Things I considered is first, school name, I think master is my last educational qualifications in my life, so it will also be the tag for strange people recognize me. Good school always catch people eyes. Second, self-identity, I used to give myself a huge expectation, such as I will get into great company, I will make a lot of money, I will create thing that very very cool. But the problem is that how can I believe that I can do something extraordinary? Confidence without any evidence is not enough. The top college master qualification is the best thing that prove in school learning part, I am the top one. Third is the environment, I think competitiveness of top university students is the very good atmosphere for me to keep improving. I think I exactly have that ability to enter that environment and I really want to work with some smart people. So I think that these reason is very powerful to persude one people to re-test to give it a shoot for top university. However, I didn't choose it.
+
+I go to NTHU and NYCU and enter their library. I have ask for almost ten library in NYCU. Most library didn;t give me that path of competitive. There exist lots of people seem like noob of implement and very good at studying that content for test. But there still exist some library that I very like and have very good and smart student inside. But this inspire me to think one think? Even NYCU have almost 1/3 library I am not very interesting and I need to spend one more year to get into here, if this still worth it? The answer start becoming to "not sure". Next I go to NTUST for search professor. I found out that there are one professor is Microsoft CTO. That make me start interest in NTUST now. I spend a lot of time to find this professor at last he accept me to be his master student. 
+
+I think re-test and select NTUST will get the simillar result. It didn't exist very appearently difference between them. And that is the reason why I have to think the pros and cons for that long time. The most different will appear if I pass NYCU at the first time. If I don't then I already become the loser no matter i re-test or NTUST.
+
+At the same time I started play Taiwan stock market and privacy coin market. I put my like eighty persent money into 0050 and some big company in Taiwan. Happl, with the good strade I earn over 10 persent of my origin money. I think the current stategy I used is good. And I also need to learning for more patient for every decision. Money need to be devide into many part to buy thing which gain the stability.
